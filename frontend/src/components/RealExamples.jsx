@@ -10,7 +10,7 @@ const RealExamples = ({ userType }) => {
 			scenario:
 				"Remote control of lights & appliances from anywhere. Premium glass touch panels that upgrade your interior aesthetics. Turned off forgotten AC from office — saved the electricity bill! Perfect for interior-focused homeowners who want both beauty and convenience.",
 			image:
-				"https://images.unsplash.com/photo-1556597249-cd6a997 737df?w=600&q=80",
+				"https://images.unsplash.com/photo-1556597249-cd6a997737df?w=600&q=80",
 			character: "Living Room & Kitchen",
 			savings: "Aesthetic + Energy Savings",
 			color: "#5B7C99",
@@ -118,8 +118,8 @@ const RealExamples = ({ userType }) => {
 					{examples.map((example, index) => (
 						<div
 							key={index}
-							className="flex flex-col md:flex-row gap-6 sm:gap-8 items-center"
-							style={{ flexDirection: index % 2 === 0 ? "row" : "row-reverse" }}
+							className={`flex flex-col gap-6 sm:gap-8 items-center
+    md:flex-row ${index % 2 !== 0 ? "md:flex-row-reverse" : ""}`}
 						>
 							{/* Image Side */}
 							<div className="w-full md:w-1/2">
