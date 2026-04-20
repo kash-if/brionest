@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/brionest/static/css/main.54ad7691.css",
-    "main.js": "/brionest/static/js/main.b5f3a442.js",
+    "main.css": "/brionest/static/css/main.b39883e0.css",
+    "main.js": "/brionest/static/js/main.be4f17ce.js",
     "static/media/curtain_opener.png": "/brionest/static/media/curtain_opener.8f4a0105f4ac2b5c6258.png",
     "static/media/motion_sensor.png": "/brionest/static/media/motion_sensor.1088491a58d152fe0cf9.png",
     "static/media/video_door_bell.png": "/brionest/static/media/video_door_bell.a1ce0c069cb21d372a94.png",
@@ -10,11 +10,11 @@
     "static/media/intrusion_detection.png": "/brionest/static/media/intrusion_detection.13e01c484c598b6b183c.png",
     "static/media/smart_switch.jpg": "/brionest/static/media/smart_switch.54fc37b2ddbceda0f3c3.jpg",
     "index.html": "/brionest/index.html",
-    "main.54ad7691.css.map": "/brionest/static/css/main.54ad7691.css.map",
-    "main.b5f3a442.js.map": "/brionest/static/js/main.b5f3a442.js.map"
+    "main.b39883e0.css.map": "/brionest/static/css/main.b39883e0.css.map",
+    "main.be4f17ce.js.map": "/brionest/static/js/main.be4f17ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.54ad7691.css",
-    "static/js/main.b5f3a442.js"
+    "static/css/main.b39883e0.css",
+    "static/js/main.be4f17ce.js"
   ]
 }
