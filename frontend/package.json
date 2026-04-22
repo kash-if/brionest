@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://kash-if.github.io/brionest",
+  "homepage": "https://brionest.in",
   "private": true,
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
