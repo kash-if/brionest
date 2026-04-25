@@ -550,17 +550,6 @@ const ConsultationForm = ({ userType }) => {
 											</div>
 										</div>
 									</div>
-									<div className="flex items-start">
-										<Building2 className="h-4 w-4 sm:h-5 sm:w-5 text-[#5B7C99] mr-2 sm:mr-3 mt-1" />
-										<div>
-											<div className="font-semibold text-sm sm:text-base text-[#2C3E50]">
-												Office
-											</div>
-											<div className="text-sm sm:text-base text-gray-700">
-												Available across major Indian cities
-											</div>
-										</div>
-									</div>
 								</div>
 							</CardContent>
 						</Card>
